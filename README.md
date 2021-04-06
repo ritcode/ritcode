@@ -28,7 +28,7 @@ I am a 2nd-year Computer Science undergraduate at National Institute of Technolo
 
 
 
-### Connect me 
+### Connect me  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Handshake.gif" width=50px >
 
 <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <br>
