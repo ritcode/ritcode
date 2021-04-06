@@ -21,7 +21,7 @@
 
 #### Connect me 
  <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
- 
+  <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-riteshshawk.rk@gmail.com?style=plastic&logo=Gmail&logoColor=white&link=mailto:riteshshawk.rk@gmail.com"></a>
 
 
 
