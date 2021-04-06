@@ -17,6 +17,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ritcdoe.ritcode)
 
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&theme=tokyonight)
 
