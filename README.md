@@ -1,7 +1,8 @@
 ### Hi there, I'm Ritesh 👋
 
+I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologiesa, and try to develop something out of it. I am always open to work on amazing projects.
 
-- 🌱 I’m currently working & learning : 
+- 🌱 Currently learning & working  : ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)  
 
 ### Tech Stacks 
 
@@ -30,12 +31,11 @@
 ### Connect me 
 
 <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:riteshshawk.rk@gmail.com" target="_blank"><img alt="Gmail" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com)
 
 
 
+### ⚙️ GitHub Analytics
 
 <img alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&hide=issues,stars&hide_border=true&title_color=5391FE&theme=tokyonight">
 
