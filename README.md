@@ -1,4 +1,4 @@
-## Hi there, I'm Ritesh ![Hi](https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif)
+## Hi there, I'm Ritesh <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
 
 I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologies, and trying to develop something out of it. I am nowadays into full stack web development and would love to work on amazing projects.
 
