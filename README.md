@@ -1,8 +1,9 @@
-### Hi there, I'm Ritesh 👋
+## Hi there, I'm Ritesh 👋
 
-I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologiesa, and try to develop something out of it. I am always open to work on amazing projects.
+I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologies, and trying to develop something out of it. I am always open to work on amazing projects.
 
-- 🌱 Currently learning & working  : ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)  
+- 🌱 Currently learning & Working  : ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)  
+
 
 ### Tech Stacks 
 
@@ -25,7 +26,7 @@ I am a 2nd-year Computer Science undergraduate at National Institute of Technolo
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 
 ### Connect me 
