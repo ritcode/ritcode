@@ -1,10 +1,10 @@
 ## Hi there, I'm Ritesh <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
 
-I am a 2nd-year Computer Science undergraduate at National Institute of Technology, passionate about exploring technologies, and trying to develop something out of it. I am currently into full stack web development and would love to work on amazing projects.
+I am a 2nd-year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into full stack web development🌐 and would love to work on amazing projects .
 
 
 
-### Tech Stack 
+### Tech Stack  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Developer.gif" width=50px >
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)   
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)   
