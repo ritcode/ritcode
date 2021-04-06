@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=5391FE&theme=tokyonight">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&hide=issues,prs&hide_border=true&title_color=5391FE&theme=tokyonight">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python,sass&hide_border=true&layout=compact">
 </p>
