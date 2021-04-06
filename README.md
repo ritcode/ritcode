@@ -1,6 +1,6 @@
 ### Hi there, I'm Ritesh 👋
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&theme=onedark)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python&layout=compact)](https://github.com/ritcode/github-readme-stats)
 
