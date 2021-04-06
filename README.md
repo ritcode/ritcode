@@ -1,11 +1,12 @@
 ## Hi there, I'm Ritesh 👋
 
-I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologies, and trying to develop something out of it. I am always open to work on amazing projects.
+I am a 2nd-year Computer Science undergraduate at National Institute of Technology, and am passionate about exploring technologies, and trying to develop something out of it. I am nowadays into full stack web development and would love to work on amazing projects.
+
 
 - 🌱 Currently learning & Working  : ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)  
 
 
-### Tech Stacks 
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -30,7 +31,6 @@ I am a 2nd-year Computer Science undergraduate at National Institute of Technolo
 
 
 ### Connect me 
-
 <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com)
 
