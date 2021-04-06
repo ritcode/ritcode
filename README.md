@@ -28,9 +28,11 @@
 
 
 ### Connect me 
- <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:riteshshawk.rk@gmail.com" target="_blank"><img alt="Gmail" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  ![![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com)
+
+<a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:riteshshawk.rk@gmail.com" target="_blank"><img alt="Gmail" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com)
 
 
 
@@ -40,18 +42,3 @@
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python,sass&hide_border=true&layout=compact">
 
 
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
