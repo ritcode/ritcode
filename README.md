@@ -19,21 +19,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-#### Connect me via : 
+#### Connect me 
+ <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+ 
 
 
 
 
-<p align="center">
+<p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&hide=issues,stars&hide_border=true&title_color=5391FE&theme=tokyonight">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python,sass&hide_border=true&layout=compact">
 </p>
-  
-  
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python&layout=compact)](https://github.com/ritcode/github-readme-stats)
 
 
 <!--
