@@ -1,4 +1,4 @@
-## Hi there, I'm Ritesh <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
+## Hi there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a> <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
 
 I am a 2nd-year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into full stack web development🌐 and would love to work on amazing projects .
 
@@ -16,7 +16,7 @@ I am a 2nd-year Computer Science undergraduate at National Institute of Technolo
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)   
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)   
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)   
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)   
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)   
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)   
 
