@@ -1,6 +1,6 @@
 ## Hi there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a> <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
 
-I am a 3rd-year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into full stack web development🌐 and would love to work on amazing projects .
+I am a 3rd-year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into web development🌐 and would love to work on amazing projects .
 
 
 
