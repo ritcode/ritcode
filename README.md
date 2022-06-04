@@ -1,10 +1,10 @@
-## Hey there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a>  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px >
+## Hey there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a>  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px height=50px>
 
 I am a pre-final year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into web and Blockchain development🌐 and would love to work on amazing projects .
 
 
 
-### Tech Stack  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Developer.gif" width=50px >
+### Tech Stack  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Developer.gif" width=50px height=50px>
 
 <img alt="JavaScript" height="20px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <img alt="Solidity" height="20px" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> <img alt="Nodejs" height="20px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> <img alt="Express.JS" height="20px" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS"/> <img alt="React" height="20px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> <img alt="HTML5" height="20px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" height="20px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img alt="jquery" height="20px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Bootstrap" height="20px" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> 
 
@@ -12,7 +12,7 @@ I am a pre-final year Computer Science undergraduate at National Institute of Te
 
 
 
-### Connect me  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Handshake.gif" width=50px >
+### Connect me  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Handshake.gif" width=50px height=50px>
 
 <a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" height="20px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:riteshshawk.rk@gmail.com" target="_blank"><img alt="Gmail" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
