@@ -1,6 +1,6 @@
 ## Hey there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a>  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px height=50px>
 
-I am a pre-final year Computer Science undergraduate at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into web and Blockchain development🌐 and would love to work on amazing projects .
+I am a Computer Science senior at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into web and Blockchain development🌐 and would love to work on amazing projects .
 
 
 
