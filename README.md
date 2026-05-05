@@ -1,41 +1,65 @@
-## Hey there, I'm <a href="https://ritcode.github.io" target="_blank">Ritesh</a>  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Hi.gif" width=50px height=50px>
+<div align="center">
 
-I am a Computer Science senior at National Institute of Technology, Hamirpur🏛, passionate about exploring technologies, and trying to develop something out of it. I am currently into web and Blockchain development🌐 and would love to work on amazing projects .
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=5391FE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ritesh+%F0%9F%91%8B;Backend+%7C+Distributed+Systems+%7C+AI;I+build+things+that+need+to+work." />
+</a>
 
+<br/>
 
-
-### Tech Stack  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Developer.gif" width=50px height=50px>
-
-<img alt="JavaScript" height="20px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <img alt="Solidity" height="20px" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> <img alt="Nodejs" height="20px" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/> <img alt="Express.JS" height="20px" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS"/> <img alt="React" height="20px" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> <img alt="HTML5" height="20px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" height="20px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img alt="jquery" height="20px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Bootstrap" height="20px" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> 
-
-<img alt="C" height="20px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/> <img height="20px" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img height="20px" alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman"/> <img height="20px" alt="Arduino" src="https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino"/> <img height="20px" alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/> <img height="20px" alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/> <img height="20px" alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
-
-
-
-### Connect me  <img src="https://raw.githubusercontent.com/ritcode/ritcode/main/Handshake.gif" width=50px height=50px>
-
-<a href="https://www.linkedin.com/in/ritcode" target="_blank"><img alt="LinkedIn" height="20px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:riteshshawk.rk@gmail.com" target="_blank"><img alt="Gmail" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritcode)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=ritcode&style=for-the-badge&color=5391FE&label=PROFILE+VIEWS)
 
+</div>
 
+---
 
-### GitHub Analytics  ⚙️
+## About
 
-<img alt="view count" src="https://komarev.com/ghpvc/?username=ritcode&style=plastic">
+I'm a software engineer at Oracle working on backend systems and ML infrastructure.
 
-<img alt = "Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritcode&show_icons=true&count_private=true&hide=issues,stars&hide_border=true&title_color=5391FE&theme=tokyonight">
+Most of my work is around building systems that need to be reliable, scalable, and easy to reason about especially in environments where things actually break if you get them wrong.
 
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritcode&hide=python,sass&hide_border=true&layout=compact">
+Lately, I've also been exploring AI-assisted development and LLM-based workflows.
 
-<!-- - for future references
-<img alt="Firebase" height="20px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="MongoDB" height="20px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)   
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)   
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) 
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshshawk.rk@gmail.com) 
-- 🌱 Currently learning & Working  : ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)  
--->
+---
+
+## What I work on
+
+* Backend engineering and APIs
+* System design and distributed systems
+* ML infrastructure and execution systems
+* AI-assisted development
+
+---
+
+## Tech
+
+**Languages**
+Java, Python, C++, SQL
+
+**Backend & Systems**
+Spring Boot, Microservices, Kafka, Redis, Docker, Kubernetes
+
+**Other**
+PostgreSQL, MySQL, MongoDB, Oracle DB, Git, Linux, Agents
+
+---
+
+## How I think
+
+I tend to focus more on the problem and constraints rather than the tools.
+I enjoy working on systems where design decisions actually matter.
+
+---
+
+## Outside work
+
+I like traveling, exploring new places, and playing badminton.
+
+---
+Open to interesting conversations and ideas.
+
